@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michauue
+- 👋 Hi, I’m @Michauue, Michał Chylak.
 - 👀 I’m interested in data science and Python.
 - 🌱 I’m currently studying at the Wrocław University of Science and Technology on the field of study of Systems Engineering.
 - 💞️ I’m looking to collaborate on ...
